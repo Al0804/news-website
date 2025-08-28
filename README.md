@@ -29,7 +29,7 @@ Website berita modern dengan desain neo-brutalism yang unik, dibangun menggunaka
 ## 🔧 Teknologi yang Digunakan
 
 ### Backend
-- **Django 4.2** - Web framework
+- **Django 5.2.5** - Web framework
 - **Django REST Framework** - API backend
 - **Django CORS Headers** - CORS handling
 - **Pillow** - Image processing
@@ -37,7 +37,7 @@ Website berita modern dengan desain neo-brutalism yang unik, dibangun menggunaka
 - **SQLite** - Database (default)
 
 ### Frontend
-- **ReactJS 18** - Frontend framework
+- **ReactJS** - Frontend framework
 - **React Router** - Navigation
 - **Bootstrap 5** - CSS framework
 - **Axios** - HTTP client
